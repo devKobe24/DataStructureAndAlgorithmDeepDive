@@ -20,8 +20,10 @@
 | 23.12.15(금) | Complexity |
 | 24.01.10(수) | 시간 복잡성과 상수 시간 |
 | 24.01.10(수) | 선형 시간 |
+| 24.01.10(수) | 이차 시간 |
 
 ## 📖 스터디 리스트
 - [Complexity](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/231215-complexity.md)
 - [시간 복잡성과 상수 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240110-TimeComplexity.md)
 - [선형 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240110-LinearTime.md)
+- [이차 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240110-QuadraticTime.md)
