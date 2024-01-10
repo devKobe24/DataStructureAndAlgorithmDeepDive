@@ -22,6 +22,7 @@
 | 24.01.10(수) | 선형 시간 |
 | 24.01.10(수) | 이차 시간 |
 | 24.01.10(수) | 로그 시간 |
+| 24.01.11(목) | 준선형 시간 |
 
 ## 📖 스터디 리스트
 - [Complexity](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/231215-complexity.md)
@@ -29,3 +30,4 @@
 - [선형 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240110-LinearTime.md)
 - [이차 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240110-QuadraticTime.md)
 - [로그 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240110-LogarithmicTime.md)
+- [준선형 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240111-QuasilinearTime.md)
