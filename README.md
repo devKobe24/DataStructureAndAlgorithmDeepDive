@@ -24,6 +24,7 @@
 | 24.01.10(수) | 로그 시간 |
 | 24.01.11(목) | 준선형 시간 |
 | 24.01.12(금) | 시간 복잡도 비교 |
+| 24.01.12(금) | 공간 복잡도 |
 
 ## 📖 스터디 리스트
 - [Complexity](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/231215-complexity.md)
@@ -33,3 +34,4 @@
 - [로그 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240110-LogarithmicTime.md)
 - [준선형 시간](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240111-QuasilinearTime.md)
 - [시간 복잡도 비교](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240112-ComparingTimeComplexity.md)
+- [공간 복잡도](https://github.com/devKobe24/DataStructureAndAlgorithmDeepDive/blob/main/contents/240112-SpaceComplexity.md)
